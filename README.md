@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # 💫 About Me:
 I am a Fullstack developer with experience building web applications. I specialize in Python and JavaScript, I have professional experience working with Django Angular and Vue. I also have some experience with Spring, Laravel, Symfony, Express and ReactJs.<br>Take a look at my work or get in touch! https://benzy.netlify.app/
 br>
